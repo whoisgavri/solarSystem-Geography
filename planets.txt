@@ -1,0 +1,38 @@
+
+*** Speed ***
+
+Mercury: 47.87 km/s     0.08
+Venus: 35.02 km/s       0.05
+Earth: 29.78 km/s       0.035
+Mars: 24.077 km/s       0.025
+Jupiter: 13.07 km/s     0.015
+Saturn: 9.69 km/s       0.012
+Uranus: 6.81 km/s       0.007   
+Neptune: 5.43 km/s      0.005
+Pluto: 4.74 km/s        0.003
+
+*** relative size to the sun ***
+
+Sun	     1.000000
+Mercury	 0.003504   10px
+Venus	 0.008691   25px
+Earth	 0.009149   30px
+Mars	 0.004868   15px
+Jupiter	 0.100398   125px
+Saturn	 0.083626   100px
+Uranus	 0.036422   60px
+Neptune	 0.035359   60px
+
+
+*** distance ***
+
+Mercury	35 000 000	3.5
+Venus	67 000 000	6.7
+Earth	93 000 000	9.3
+Mars	142 000 000	14.2
+Asteroid Belt	297 000 000	29.7
+Jupiter	484 000 000	48.4
+Saturn	889 000 000	88.9
+Uranus	1 790 000 000	179
+Neptune	2 880 000 000	288
+Pluto/ Kuiper belt	3 670 000 000	367
